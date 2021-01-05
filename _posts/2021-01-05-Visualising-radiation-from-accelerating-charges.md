@@ -17,5 +17,5 @@ In the visualisation below, the information about the electrons position is repr
 Red lines connect up points at the same angular position on each circle.
 
 <video width="640" height="640" controls>
-  <source type="video/mp4" src="{{ site.baseurl }}/Illustrations/dipole_ramp.mp4">
+  <source type="video/mp4" src="{{ site.baseurl }}/illustrations/dipole_ramp.mp4">
 </video>
