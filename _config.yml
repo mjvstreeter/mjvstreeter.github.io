@@ -1,2 +1,3 @@
 name: Self-indulgent physics play time
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
