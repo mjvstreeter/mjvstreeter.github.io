@@ -15,3 +15,7 @@ Thats no problem if the electron of interest is just sitting there, but if it st
 A classic example is a dipole, where the electron performs a periodic oscillation.
 In the visualisation below, the information about the electrons position is represented by expanding blue circles, originating from the electron at certain intervals.
 Red lines connect up points at the same angular position on each circle.
+
+<video width="640" height="640" controls>
+  <source type="video/mp4" src="https://mjvstreeter.github.io/Illustrations/dipole_ramp.mp4">
+</video>
