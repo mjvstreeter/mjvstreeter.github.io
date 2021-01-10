@@ -17,10 +17,12 @@ In the visualisation below, the information about the electron's position is rep
 The red lines connect points moving away from the charge at the speed of light and at a fixed angle.
 These lines can be thought of as the electric field lines resulting from the charge of the electron. 
 
-As the electron starts to move, wiggles form in the field lines, which then propagate outwards at the speed of light.
-The transverse periodic wiggles in the field line, which are seen along mainly to the left and right of the dipole, actually carry energy away from the dipole in the form of electro-magnetic radiation.
-So this dipole is a source of light, and can be seen through a purely geometric approach and by knowing that a charged particle generates a radial electric field.
 
 <video width="640" height="640" controls>
   <source type="video/mp4" src="{{ site.baseurl }}/illustrations/dipole_ramp.mp4">
 </video>
+
+As the electron starts to move, wiggles form in the field lines, which then propagate outwards at the speed of light.
+The transverse periodic wiggles in the field line, which are seen along mainly to the left and right of the dipole, actually carry energy away from the dipole in the form of electro-magnetic radiation.
+So this dipole is a source of light, and can be seen through a purely geometric approach and by knowing that a charged particle generates a radial electric field.
+
