@@ -49,5 +49,5 @@ The electro-magnetic radiation emitted by the dipole is compressed in the forwar
 Compared to the trajectory electron (shown by the grey line), we can see that the radiation is of a shorter wavelength and the factor by which the wavelength is reduced is related to the forward velocity as a fraction of the speed of light.
 Wigglers (called Undulators when the dipole motion is below some threshold) are the basic princples of large scale synchrotron facilities, where they are used to generate intense x-rays.
 To do this the electrons a first accelerated to 99.99999% of the speed of light before being wiggled in a set of alternating magnets.
-The x-rays produced by this process are used to examine materials, chemicals and biological samples with sub-nanometer precision and are one of the most important scientific tools of the last 50 years or so.
+The x-rays produced by this process are used to examine materials, chemicals and biological samples with sub-nanometer precision and are one of the most important scientific tools of the last 50 years and are  flagship scientific facilties in many countries around the world https://en.wikipedia.org/wiki/List_of_synchrotron_radiation_facilities.
 
